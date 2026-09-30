@@ -1,0 +1,6 @@
+{
+  "name": "NovaTask: Ultra Modern To-Do & Hobby Tracker",
+  "description": "Ultra-modern to-do list and hobby tracker featuring 5 immersive themes, habit streaks, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

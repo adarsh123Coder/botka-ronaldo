@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NovaTask</string>
+    <string name="tab_tasks">Tasks</string>
+    <string name="tab_hobbies">Hobbies</string>
+    <string name="tab_insights">Insights</string>
+    <string name="tab_settings">Settings</string>
+</resources>
